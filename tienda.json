@@ -1,26 +1,28 @@
 [
   {
-    "name": "Alvaro",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+    "name": "PHP",
+    "texto" : "Iniciacion a PHP"
+    },
+  {
+   "name": "JS",
+    "texto" : "Iniciacion a JavaScript"
   },
   {
-    "name": "Brais",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Roi",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+   "name": "Java",
+    "texto" : "Iniciacion a Java"
+    },
+   {
+   "name": "HTML",
+    "texto" : "Iniciacion a HTML"
+    },
+ {
+   "name": "CSS",
+    "texto" : "Iniciacion a CSS"
+    },
+ {
+   "name": "Bootstrap",
+    "texto" : "Iniciacion a Bootstrap"
+    },
+  
   }
 ]
