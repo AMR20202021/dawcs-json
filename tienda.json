@@ -2,7 +2,7 @@
   {
     "name": "PHP",
     "texto" : "Iniciacion a PHP"
-    },
+ },
   {
    "name": "JS",
     "texto" : "Iniciacion a JavaScript"
@@ -22,7 +22,5 @@
  {
    "name": "Bootstrap",
     "texto" : "Iniciacion a Bootstrap"
-    },
-  
-  }
+    }
 ]
